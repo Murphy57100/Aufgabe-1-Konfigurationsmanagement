@@ -1,9 +1,9 @@
 # <h1> Aufgabe-1-Konfigurationsmanagement
 
-# <h5> Inhalt:
+# <h2> Inhalt:
 Zusammenfassung der beiden Online-Kurse "Introduction to github" und "skills-communicate-using-markdown".
 
-# <h2> Einführung in Github
+# <h4> Einführung in Github
 Was ich gelernt habe:
 - [x] 1: GitHub
       GitHub ist eine Plattform die auf Git basiert und das gemeinsame Arbeiten an Softwareprojekten ermöglicht.
@@ -24,7 +24,7 @@ Was ich gelernt habe:
       Ein pull request zusammenführen
       Ein merge fügt die Änderungen von meinem pull request zum Hauptrpojekt hinzu
 
-# <h2> Einführung in Markdown
+# <h4> Einführung in Markdown
 Was ich gelernt habe:
 - [x] 1: Markdown
       Markdown ist eine Syntax für die Kommunikation auf GitHub.
