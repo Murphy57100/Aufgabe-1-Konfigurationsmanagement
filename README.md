@@ -7,29 +7,23 @@ Zusammenfassung der beiden Online-Kurse "Introduction to github" und "skills-com
 
 Was ich gelernt habe:
 - [x] GitHub:
-      
-      GitHub ist eine Plattform die auf Git basiert und das gemeinsame Arbeiten an Softwareprojekten ermöglicht.
+      <br>GitHub ist eine Plattform die auf Git basiert und das gemeinsame Arbeiten an Softwareprojekten ermöglicht.
 
 - [x] Create a branch:
-      
-      Die Erstellung eines neuen Astes.
-      Ein Ast ist eine parallele Verion vom Reopsitorium in der man sicher Änderungen schreiben und testen kann, ohne dass es sich auf das Hauptprojekt auswirkt.
+      <br>Die Erstellung eines neuen Astes.
+      <br>Ein Ast ist eine parallele Verion vom Reopsitorium in der man sicher Änderungen schreiben und testen kann, ohne dass es sich auf das Hauptprojekt auswirkt.
       
 - [x] Commit a file:
-      
-      Das Commiten eines Files.
-      Ein Commit zeichnet alle Änderungen (beispielweise Umbenennungen, Änderungen, das Erstellen einer neuen Datei etc.) am Projekt auf.
+      <br>Das Commiten eines Files.
+      <br>Ein Commit zeichnet alle Änderungen (beispielweise Umbenennungen, Änderungen, das Erstellen einer neuen Datei etc.) am Projekt auf.
       
 - [x] Open a pull request:
-      
-      Ein pull request ausführen
-      Bei einem pull request werden die Änderungen im Ast und mit dem Hauptprojekt verglichen.
+      <br>Ein pull request ausführen.
+      <br>Bei einem pull request werden die Änderungen im Ast und mit dem Hauptprojekt verglichen.
     
 - [x] Merge your pull request:
-      
-      Ein pull request zusammenführen
-      Ein merge fügt die Änderungen von meinem pull request zum Hauptrpojekt hinzu
-
+      <br>Ein pull request zusammenführen.
+      <br>Ein merge fügt die Änderungen von meinem pull request zum Hauptrpojekt hinzu.
 
 #### <h4> Einführung in Markdown
 
@@ -40,7 +34,7 @@ Was ich gelernt habe:
       
 - 2: Add headers
   
-      Unterschiedliche Überschriften erstellen
+      Unterschiedliche Überschriften erstellen.
       Es gibt 6 Arten von Überschriften, die sich in ihrer Größe unterscheiden.
       
 - 3: Add an image
